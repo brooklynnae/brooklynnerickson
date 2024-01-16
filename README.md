@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 
 Third year Applied Science undergrad at UBC majoring in Engineering Physics. Experienced and educated in Applied Physics and Mathematics, Software, Mechanical, Materials, and Electrical Engineering. 
 
